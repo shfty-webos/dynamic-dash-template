@@ -1,0 +1,11 @@
+{
+   "id": "com.widget.template",
+   "version": "1.0.0",
+   "vendor": "Vendor",
+   "type": "web",
+   "main": "index.html",
+   "title": "Clock Widget",
+   "uiRevision": "2",
+	"icon": "icon.png",
+	"splashicon": "icon.png",
+}
