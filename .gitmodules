@@ -1,0 +1,3 @@
+[submodule "widget/enyo"]
+	path = widget/enyo
+	url = git@github.com:enyojs/enyo
