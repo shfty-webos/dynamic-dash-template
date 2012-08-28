@@ -4,7 +4,7 @@
    "vendor": "Vendor",
    "type": "web",
    "main": "index.html",
-   "title": "Clock Widget",
+   "title": "Widget Template",
    "uiRevision": "2",
 	"icon": "icon.png",
 	"splashicon": "icon.png",
